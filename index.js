@@ -1,4 +1,4 @@
-//Write your code here
+
 
 // Declare an object
 let attendee = {}
@@ -40,10 +40,6 @@ function removeEventProperty(attendee) {
 function addCheckedInProperty(attendee) {
   attendee.checkedIn = true;
 }
-
-
-
-
 
 
 
